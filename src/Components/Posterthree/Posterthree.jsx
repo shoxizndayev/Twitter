@@ -18,7 +18,7 @@ function Posterthree() {
 				<strong className='point'>···</strong>
 			</div>
 
-			<p className='post__info'>Обетда..... <br/>Кечиринглар</p>
+			<p className='post__info'>Обетда..... Кечиринглар</p>
 
          <img className='post__img' src={foodimg} alt="food img" width='490' height='370' />
 
